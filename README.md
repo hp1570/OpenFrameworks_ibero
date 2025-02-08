@@ -6,7 +6,10 @@
 Este es un espacio diseñado para que cualquier persona –sin importar su nivel de experiencia– pueda aprender a programar de manera dinámica, divertida y creativa. 🌈
 
 Aquí encontrarás:
-✅ Retos y ejercicios interactivos 🏆✅ Proyectos locos pero geniales 🎨✅ Explicaciones simples y al grano 📚✅ Comunidad de apoyo para resolver dudas 👥
+✅ Retos y ejercicios interactivos 🏆
+✅ Proyectos locos pero geniales 🎨
+✅ Explicaciones simples y al grano 📚
+✅ Comunidad de apoyo para resolver dudas 👥
 
 🌍 ¿Por qué es importante aprender a programar?
 
@@ -18,7 +21,10 @@ Vivimos en un mundo donde la tecnología está en TODO. Desde tu celular 📱 ha
 
 🎮 ¿Cómo empiezo?
 
-1️⃣ Dale ⭐ a este repo para no perderte nada.2️⃣ Descarga o clona este repositorio.3️⃣ Sigue los tutoriales y retos que hemos preparado.4️⃣ ¡Comparte tus avances con la comunidad! 🚀
+1️⃣ Dale ⭐ a este repo para no perderte nada.
+2️⃣ Descarga o clona este repositorio.
+3️⃣ Sigue los tutoriales y retos que hemos preparado.
+4️⃣ ¡Comparte tus avances con la comunidad! 🚀
 
 🤝 ¡Únete a la comunidad!
 
