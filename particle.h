@@ -7,10 +7,14 @@ class particle
 public:
 	particle(); // Constructor
 
-	/* Métodos de la clase */
+	/* MÃ©todos de la clase */
 	void setup();
 	void update(float speed, float noise);
 	void draw(float sizeDot);
+	/*
+	* The repel vector comes from the main application and the repel points
+	* will be from the silhouette we get with the OpenCV technique
+	*/
 	void repel(vector<ofVec2f> repelPt);
 
 	/* Atributos */

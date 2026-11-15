@@ -4,6 +4,7 @@
 #include "../particle.h"
 #include "ofxGui.h"
 #include "ofxOpenCV.h"
+//#include "ofxKinectV2.h";
 
 class ofApp : public ofBaseApp{
 
@@ -66,6 +67,24 @@ class ofApp : public ofBaseApp{
 		ofxToggle bLearnBackground;
 //#endif //Webcam
 
-		int numParticles;
+/*
+#ifdef Kinect
+	ofxKinectV2 kinect;
+	// Function for the exit correctly from the kinect
+	void exit();
+	ofxCvColorImage colorImg;
+	ofxCvGrayscaleImage grayImg;
+	ofxCvGrayscaleImage grayBg;
+	ofxCvGrayscaleImage grayDiff;
+	// Object to extract the blubs from the Graydiff Image. 
+	//To find the contour of the silhouette that is being tracked
+	ofxCvContourFinder contourFinder;
+	//
+	ofxIntSlider threshold;
+	// Toggle button to capture the background
+	ofxToggle bLearnBackground;
+#endif // Kinect
+*/
+	int numParticles;
 		
 };
